@@ -1,0 +1,20 @@
+C:\Users\alain\source\repos\Hangman-Console\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\alain\source\repos\Hangman-Console\Hangman\bin\Debug\Hangman.exe
+C:\Users\alain\source\repos\Hangman-Console\Hangman\bin\Debug\Hangman.pdb
+C:\Users\alain\source\repos\Hangman-Console\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\alain\source\repos\Hangman-Console\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\alain\source\repos\Hangman-Console\Hangman\obj\Debug\Hangman.exe
+C:\Users\alain\source\repos\Hangman-Console\Hangman\obj\Debug\Hangman.pdb
+D:\Alain\Documents\Formation Arondor NET\Hangman-Console\Hangman\bin\Debug\Hangman.exe.config
+D:\Alain\Documents\Formation Arondor NET\Hangman-Console\Hangman\bin\Debug\Hangman.exe
+D:\Alain\Documents\Formation Arondor NET\Hangman-Console\Hangman\bin\Debug\Hangman.pdb
+D:\Alain\Documents\Formation Arondor NET\Hangman-Console\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+D:\Alain\Documents\Formation Arondor NET\Hangman-Console\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+D:\Alain\Documents\Formation Arondor NET\Hangman-Console\Hangman\obj\Debug\Hangman.exe
+D:\Alain\Documents\Formation Arondor NET\Hangman-Console\Hangman\obj\Debug\Hangman.pdb
+\\Instruct\Partage\Pendu\Hangman\bin\Debug\Hangman.exe.config
+\\Instruct\Partage\Pendu\Hangman\bin\Debug\Hangman.exe
+\\Instruct\Partage\Pendu\Hangman\bin\Debug\Hangman.pdb
+\\Instruct\Partage\Pendu\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+\\Instruct\Partage\Pendu\Hangman\obj\Debug\Hangman.exe
+\\Instruct\Partage\Pendu\Hangman\obj\Debug\Hangman.pdb
